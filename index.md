@@ -1,16 +1,16 @@
-# [Shane McCabe] - Data Analyst Portfolio
+# Shane McCabe - Data Analyst Portfolio
 
 ## About Me
-Data analyst with expertise in Python, SQL, and Tableau. Passionate about turning data into actionable insights.
+Data analyst with expertise in Python, SQL, and Tableau. I love discovering the stories hidden in data and translating them into insights that drive better decisions.
 
 ## Featured Projects
 
 ### Data Analyst Job Market Analysis
-**Skills:** Python, Pandas, Statistical Analysis, Data Visualization
+**Skills:** Python, Plotly, Pandas, Statistical Analysis, Data Visualization, Data Engineering
 
 Analyzed 45,000+ job postings to identify:
 - Top skills correlated with higher salaries
-- Geographic salary trends
+- How experience level relates to salary
 - Remote vs onsite compensation differences
 
 **Key Findings:**
@@ -18,7 +18,7 @@ Analyzed 45,000+ job postings to identify:
 - Machine learning expertise adds $15,646 average premium
 - Experience level is the strongest salary predictor (r=0.33)
 
-[View Project](https://github.com/your-username/data-analyst-job-market) | [Read Analysis](link-to-notebook)
+[View Project](https://github.com/shanemccabe2/data-analyst-job-market) | [Read Analysis](link-to-notebook)
 
 ---
 
