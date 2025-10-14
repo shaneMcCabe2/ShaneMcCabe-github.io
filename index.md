@@ -11,14 +11,16 @@ Data analyst with expertise in Python, SQL, and Tableau. I love discovering the 
 Analyzed 45,000+ job postings to identify:
 - Top skills correlated with higher salaries
 - How experience level relates to salary
-- Remote vs onsite compensation differences
+- What skills commonly appear together
 
 **Key Findings:**
-- Python skills command 10% salary premium
-- Machine learning expertise adds $15,646 average premium
-- Experience level is the strongest salary predictor (r=0.33)
+- Experience vs Skills: Experience is the strongest salary predictor (r=0.332)
+- Top Earning Skills: Python ($9,608), snowflake($13,252), aws ($16,952), show salary premiums
+- Independent Value: Python maintains strong salary correlation even after controlling for experience
+- Career Growth: Entry → Senior progression yields 45.9% salary increase ($83K → $121K) Entry → Senior salary growth: +$38,276 (45.9%)
 
-[View Project](https://github.com/shanemccabe2/data-analyst-job-market) | [Read Analysis](link-to-notebook)
+
+[View Project](https://github.com/shanemccabe2/data-analyst-job-market) | [Read Analysis](https://github.com/shaneMcCabe2/data-analyst-job-market/blob/main/notebooks/data_analyst_job_market_analysis.ipynb)
 
 ---
 
