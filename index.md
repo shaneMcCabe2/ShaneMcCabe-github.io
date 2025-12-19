@@ -24,8 +24,10 @@ Analyzed 45,000+ job postings to identify:
 
 ---
 
-### Extreme Weather Analysis
-Coming soon...
+### Crypto Market Monitoring Pipeline
+**In Progress**
+[View Project](https://github.com/shaneMcCabe2/crypto_market_monitoring_pipeline)
+
 
 ## Contact
 - **Email:** shane.mccabe27@gmail.com
