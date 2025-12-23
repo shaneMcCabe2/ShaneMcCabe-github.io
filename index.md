@@ -6,7 +6,7 @@ Data analyst with expertise in Python, SQL, and Tableau. I love discovering the 
 ## Featured Projects
 
 ### Data Analyst Job Market Analysis
-**Skills:** Python, Plotly, Pandas, Statistical Analysis, Data Visualization, Data Engineering
+**Skills:** Python, Plotly, Pandas, Git, LLM, Statistical Analysis, Data Visualization, Data Engineering
 
 Analyzed 45,000+ job postings to identify:
 - Top skills correlated with higher salaries
