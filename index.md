@@ -1,7 +1,11 @@
 # Shane McCabe - Data Analyst Portfolio
 
 ## About Me
-Data analyst with expertise in Python, SQL, and Tableau. I love discovering the stories hidden in data and translating them into insights that drive better decisions.
+Data Analyst | Data Engineer
+
+I build data pipelines and analytical solutions that turn messy data into clear insights. My work focuses on end-to-end implementation—from extraction and transformation to visualization and modeling.
+
+Currently seeking data analyst and data engineering roles where I can apply 3 years of professional analytics experience to challenging problems.
 
 ## Featured Projects
 
@@ -19,17 +23,24 @@ Analyzed 45,000+ job postings to identify:
 - Independent Value: Python maintains strong salary correlation even after controlling for experience
 - Career Growth: Entry → Senior progression yields 45.9% salary increase ($83K → $121K) Entry → Senior salary growth: +$38,276 (45.9%)
 
+[Streamlit Dashboard](https://data-analyst-job-market-7m8tuqx7uuxqguzq87kro3.streamlit.app/)
+- Executive summary with key metrics
+- Skills analysis and salary premiums
+- Geographic trends and insights
+- Experience level breakdowns
+- Detailed methodology
 
-[View Project](https://github.com/shanemccabe2/data-analyst-job-market) | [Read Analysis](https://github.com/shaneMcCabe2/data-analyst-job-market/blob/main/notebooks/data_analyst_job_market_analysis.ipynb)
+[View Project Repo](https://github.com/shanemccabe2/data-analyst-job-market) | [Read Analysis](https://github.com/shaneMcCabe2/data-analyst-job-market/blob/main/notebooks/data_analyst_job_market_analysis.ipynb)
 
 ---
 
 ### Crypto Market Monitoring Pipeline
 **In Progress**
-[View Project](https://github.com/shaneMcCabe2/crypto_market_monitoring_pipeline)
+[View Project Repo](https://github.com/shaneMcCabe2/crypto_market_monitoring_pipeline)
 
 
 ## Contact
 - **Email:** shane.mccabe27@gmail.com
 - **Phone:** 603-733-6282
 - **GitHub:** [github.com/shanemccabe2](https://github.com/shanemccabe2)
+- **LinkedIn** [https://www.linkedin.com/in/shane-mccabe-54aaa239a/]
