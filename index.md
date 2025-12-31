@@ -43,4 +43,4 @@ Analyzed 45,000+ job postings to identify:
 - **Email:** shane.mccabe27@gmail.com
 - **Phone:** 603-733-6282
 - **GitHub:** [github.com/shanemccabe2](https://github.com/shanemccabe2)
-- **LinkedIn** [https://www.linkedin.com/in/shane-mccabe-54aaa239a/]
+- **LinkedIn** (https://www.linkedin.com/in/shane-mccabe-54aaa239a/)
